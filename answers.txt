@@ -9,3 +9,8 @@ c. The three types of meetings that happen are sprint planning meeting, daily sc
 things to complete in the upcomingsprint, and determine story points and assignments for the respective storypoints. THe daily scrum meeting happens everyday of the spring, and it is essentially
 a check-in for progress made and things to be completed that day. It is typically 10 mintues long. The sprint retrospective meeting occurs at the end of the sprint,
 and disucsses work completed and the closing of the sprint.
+
+d. An epic captures a large body of work that can be broken down into several smaller stories, it is the overarching thing to be implemented. 
+The story is a software system requiement that is expressed shortly, it is a component of the epic.
+The bug is a smallest unit of work that can be tracked through a workflow, it is can be blocking in nature, in that it blocks some story from being completed until fixed.
+The task type is a standard default ixsue type to track some specific work, they usually represent routine activities unlike other types.
