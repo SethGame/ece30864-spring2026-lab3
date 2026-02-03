@@ -1,3 +1,3 @@
 a. The benefits of Agile development is that it is iterative, which is important in something like programming/engineering where the development to a solution
 is not straightforward. Also, as the scope changes, it is flexible to such changes. However, due to its iterative nature, it is difficult to predict costs and a timeline,
-and also can become incohesive and not fluid.
+and also can become incohesive and not fluid.  
