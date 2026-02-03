@@ -4,3 +4,8 @@ and also can become incohesive and not fluid.
 
 b. The role of the Scrum master is related to all scrum-related tasks, which includes JIRA-toooling, facilitating sprints and meetings. Usually this role is rotated around
 the members of the development team. On the other hand, the product owner sets the direction for the team, handles releases and stakeholder management.
+
+c. The three types of meetings that happen are sprint planning meeting, daily scrum/standup meeting, and spring retrospective meeting. The sprint planning meetings to the determine the
+things to complete in the upcomingsprint, and determine story points and assignments for the respective storypoints. THe daily scrum meeting happens everyday of the spring, and it is essentially
+a check-in for progress made and things to be completed that day. It is typically 10 mintues long. The sprint retrospective meeting occurs at the end of the sprint,
+and disucsses work completed and the closing of the sprint.
